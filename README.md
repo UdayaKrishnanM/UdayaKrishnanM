@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BD6&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS+%E2%80%A2+DevOps;Building+secure%2C+scalable+REST+APIs;Open-source+contributor;AWS+certified;10%2B+published+research+papers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9BD6&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;Building+secure%2C+scalable+REST+APIs;Open-source+contributor;AWS+certified;10%2B+published+research+papers" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=UdayaKrishnanM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=UdayaKrishnanM&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub stats" />
 
 I'm a **Software Engineer** focused on building **secure, scalable backend systems** and the pipelines that ship them.
 
